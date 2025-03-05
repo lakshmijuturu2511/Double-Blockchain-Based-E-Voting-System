@@ -1,0 +1,76 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\laksh\\OneDrive\\Desktop\\DBE\\contracts\\Voting1.sol": {
+      "lastModificationDate": 1736927535531,
+      "contentHash": "e2cbdad5a3aabfacc2ccca5c2bc0746e",
+      "sourceName": "contracts/Voting1.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IVoting2",
+        "Voting1"
+      ]
+    },
+    "C:\\Users\\laksh\\OneDrive\\Desktop\\DBE\\contracts\\Voting2.sol": {
+      "lastModificationDate": 1736924190562,
+      "contentHash": "d137fa5d22695ff4f7e60a4002bebca3",
+      "sourceName": "contracts/Voting2.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Voting2"
+      ]
+    }
+  }
+}
